@@ -1,0 +1,23 @@
+[
+  {
+    "name": "police",
+    "phone": "093",
+    "relation": "Police",
+    "created_at": "2025-12-09 03:31:59.402651",
+    "_id": "3"
+  },
+  {
+    "name": "Brother",
+    "phone": "03055191410",
+    "relation": "Security",
+    "created_at": "2025-12-10 00:12:40.356330",
+    "_id": "1765307560356"
+  },
+  {
+    "name": "Ali Hassan Co-Founder",
+    "phone": "03187227383",
+    "relation": "Security",
+    "created_at": "2025-12-10 00:13:04.912485",
+    "_id": "1765307584912"
+  }
+]

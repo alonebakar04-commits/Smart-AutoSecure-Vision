@@ -1,0 +1,22 @@
+[
+    {
+        "serial_no": 1001,
+        "name": "Abu Bakar Iqbal",
+        "relation": "Self",
+        "phone": "03245906459",
+        "address": "Muridke",
+        "photo": "1001_face.jpeg",
+        "created_at": "2025-12-09 02:52:27.124724",
+        "_id": "1"
+    },
+    {
+        "serial_no": 1002,
+        "name": "Annas Abbas",
+        "relation": "Friend",
+        "phone": "03244094040",
+        "address": "Loharanwala",
+        "photo": "1002_anas.jpg",
+        "created_at": "2025-12-09 02:53:49.159395",
+        "_id": "2"
+    }
+]
