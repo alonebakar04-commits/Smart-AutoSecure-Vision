@@ -40,7 +40,7 @@ A real-time, privacy-first AI surveillance dashboard built with Python Flask, Op
   - **Streaming**: OpenCV + MJPEG  
 
 ## 📸 Screenshots
-
+ljnjknjnjn
 ![Main Dashboard](preview/main.png)  
 *Live multi-camera view with tracking log*
 
